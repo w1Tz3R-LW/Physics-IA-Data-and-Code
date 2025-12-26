@@ -1,0 +1,92 @@
+{
+    "6F11": {
+        "sampling_rate": 50000,
+        "group": 1,
+        "number": 1,
+        "resistance": 319
+    },
+    "6F12": {
+        "sampling_rate": 50000,
+        "group": 1,
+        "number": 2,
+        "resistance": 319
+    },
+    "6F13": {
+        "sampling_rate": 50000,
+        "group": 1,
+        "number": 3,
+        "resistance": 319
+    },
+    "6G11": {
+        "sampling_rate": 50000,
+        "group": 2,
+        "number": 1,
+        "resistance": 466
+    },
+    "6G12": {
+        "sampling_rate": 50000,
+        "group": 2,
+        "number": 2,
+        "resistance": 466
+    },
+    "6G13": {
+        "sampling_rate": 50000,
+        "group": 2,
+        "number": 3,
+        "resistance": 466
+    },
+    "6H11": {
+        "sampling_rate": 25000,
+        "group": 3,
+        "number": 1,
+        "resistance": 559
+    },
+    "6H12": {
+        "sampling_rate": 25000,
+        "group": 3,
+        "number": 2,
+        "resistance": 559
+    },
+    "6H13": {
+        "sampling_rate": 25000,
+        "group": 3,
+        "number": 3,
+        "resistance": 559
+    },
+    "6I11": {
+        "sampling_rate": 25000,
+        "group": 4,
+        "number": 1,
+        "resistance": 665
+    },
+    "6I12": {
+        "sampling_rate": 25000,
+        "group": 4,
+        "number": 2,
+        "resistance": 665
+    },
+    "6I13": {
+        "sampling_rate": 25000,
+        "group": 4,
+        "number": 3,
+        "resistance": 665
+    },
+    "6J11": {
+        "sampling_rate": 25000,
+        "group": 5,
+        "number": 1,
+        "resistance": 815
+    },
+    "6J12": {
+        "sampling_rate": 25000,
+        "group": 5,
+        "number": 2,
+        "resistance": 815
+    },
+    "6J13": {
+        "sampling_rate": 25000,
+        "group": 5,
+        "number": 3,
+        "resistance": 815
+    }
+}

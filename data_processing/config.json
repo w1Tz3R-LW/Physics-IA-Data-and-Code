@@ -1,0 +1,11 @@
+{
+    "file_folder_path": "D:\\WHBC\\Physics IA\\data\\final_data\\",
+    "n": 0.7,
+    "m": 128,
+    "should_graph_preprocess": false,
+    "should_graph_fitting": true,
+    "preprocess_left_start_idx":1,
+    "preprocess_left_end_idx": 30,
+    "k": 5,
+    "V_path": "D:\\WHBC\\Physics IA\\data\\final_data\\V.csv"
+}
